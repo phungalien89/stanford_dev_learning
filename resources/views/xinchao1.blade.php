@@ -1,0 +1,1 @@
+<h1>Chào mừng bạn đến với Laravel cơ bản!</h1>
